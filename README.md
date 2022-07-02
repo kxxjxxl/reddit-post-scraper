@@ -4,9 +4,6 @@
 
 A python script that grabs upto 100 top posts of any subreddit.
 
-## Author ##
-
-[ManinderAngural](https://github.com/ManinderAngural)
 
 ## How to use ##
 
